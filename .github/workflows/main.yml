@@ -25,4 +25,5 @@ jobs:
 
     - name: Executar testes
       run: |
+        cd Aula_8
         npm test
